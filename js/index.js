@@ -35,3 +35,6 @@ window.addEventListener('click', addADot)
 // 2. Insert the dot at the point, BUT, apply as a %, not a px value
 // 3. Randomize the size
 // 4. Randomize the colour
+
+// ADVANCED:
+// - If the new element is inserted such that it would be partially outside the window boundary, move it over in the appropriate direction.
